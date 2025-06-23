@@ -20,6 +20,7 @@ Imports:
     whisker,
     sf (>= 0.9.6),
     sp,
+    spData,
     xml2 (>= 1.0.0),
     tools,
     utils,
